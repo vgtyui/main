@@ -10,7 +10,6 @@ def multiply(x, y):
     """Функция умножения * """
     return x * y
 
-
 def divide(x, y):
     """Функция деления / """
     if y == 0:
