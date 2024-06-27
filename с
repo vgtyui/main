@@ -2,8 +2,6 @@ def add(x, y).:
     """Функция сложения + """
     return x + y
 
-
-
 def subtract(x, y):
     """Функция вычитания - """
     return x - y
