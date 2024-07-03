@@ -42,3 +42,5 @@ while True:
             print("Результат:", divide(num1, num2))
     else:
         print("Неверный ввод")
+
+
