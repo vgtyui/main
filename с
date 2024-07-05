@@ -26,8 +26,6 @@ print("4. Деление")
 while True:
     choice = input("Введите номер операции (1/2/3/4): ")
 
-
-
     if choice in ('1', '2', '3', '4'):
         num1 = float(input("Введите первое число: "))
         num2 = float(input("Введите второе число: "))
